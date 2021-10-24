@@ -28,7 +28,7 @@
 
 ## **3D Graph**
 
-![Elbow%20Curve.PNG](https://github.com/Bionicbabes/Cryptocurrencies/blob/main/Resources/Elbow%20Curve.PNG)
+![3D%20Graph.PNG](https://github.com/Bionicbabes/Cryptocurrencies/blob/main/Resources/3D%20Graph.PNG)
 
 ## **HVPlot Table**
 
