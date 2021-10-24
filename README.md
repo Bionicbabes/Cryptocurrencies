@@ -36,4 +36,4 @@
 
 ## **HVPlot Scatterplot**
 
-![Elbow%20Curve.PNG](https://github.com/Bionicbabes/Cryptocurrencies/blob/main/Resources/Elbow%20Curve.PNG)
+![HV%20Plot%20Scatter.PNG](https://github.com/Bionicbabes/Cryptocurrencies/blob/main/Resources/HV%20Plot%20Scatter.PNG)
