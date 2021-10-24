@@ -22,3 +22,18 @@
 
 --------------------------------------
 
+## **Elbow Curve**
+
+![Elbow%20Curve.PNG](https://github.com/Bionicbabes/Cryptocurrencies/blob/main/Resources/Elbow%20Curve.PNG)
+
+## **3D Graph**
+
+![Elbow%20Curve.PNG](https://github.com/Bionicbabes/Cryptocurrencies/blob/main/Resources/Elbow%20Curve.PNG)
+
+## **HVPlot Table**
+
+![Elbow%20Curve.PNG](https://github.com/Bionicbabes/Cryptocurrencies/blob/main/Resources/Elbow%20Curve.PNG)
+
+## **HVPlot Scatterplot**
+
+![Elbow%20Curve.PNG](https://github.com/Bionicbabes/Cryptocurrencies/blob/main/Resources/Elbow%20Curve.PNG)
